@@ -2,9 +2,9 @@
 
 An Android application based on Piet Mondrian artwork that allows you to color different boxes with screen taps.
 
-Submitted by: <Ernesto Acosta>
+Submitted by: Ernesto Acosta
 
-Time spent: <two hours>
+Time spent: two hours
 
 ## User Stories
 
